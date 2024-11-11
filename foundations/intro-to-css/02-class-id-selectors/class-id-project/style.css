@@ -3,3 +3,14 @@ p{
     font-family:verdana, dejavu sans, sans-serif;
 
 }
+.large-font{
+    font-size: 24px;
+}
+#second-element{
+    color: rgb(15, 6, 97);
+    font-size: 36px;
+}
+#fourth-element{
+    background-color: rgb(184, 233, 172);
+    font-weight: bold;
+}
